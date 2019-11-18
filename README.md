@@ -13,6 +13,8 @@ materials for my workshop "Latest Deep Learning Models for NLP" @ the European O
 * https://github.com/keon/awesome-nlp
 * https://web.stanford.edu/~jurafsky/slp3/
 * https://dawn.cs.stanford.edu/2019/03/22/glue/
+* https://drive.google.com/file/d/15ehMIJ7wY9A7RSmyJPNmrBMuC7se0PMP/view
+
 
 
 
