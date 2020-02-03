@@ -1,8 +1,12 @@
 # ODSC2019-DL-models-NLP
-### materials for my workshop "Latest Deep Learning Models for NLP" @ the European Open Data Science Conference 2019 (London)
+### materials for my workshop ["Latest Deep Learning Models for NLP"](https://odsc.com/training/portfolio/latest-deep-learning-models-for-natural-language-processing/) @ [the European Open Data Science Conference 2019 (London)](https://odsc.com/training/portfolio/latest-deep-learning-models-for-natural-language-processing/)
 
 ### Slides 
 The slides are available [here](https://docs.google.com/presentation/d/1Gmsi1V1luN77l25ftnjgL3h60HpEo4zSapJYAcM6I-M/edit?usp=sharing)
+
+### Practical tutorials 
+* [colab notebook for tutorial #1](https://colab.research.google.com/drive/1ZlMNPGGNmXtKw_h3D4XPQCYIeR3_Wkmh)
+* [colab notebook for tutorial #2](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/transformer.ipynb)
 
 ### Resources used to prepare the workshop
 * https://thegradient.pub/nlp-imagenet/
